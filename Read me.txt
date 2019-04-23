@@ -1,0 +1,7 @@
+Steps to run project. 
+
+1. Need to created Databse, and for database creation I added Create/Drop script with data.
+2. Please run attach db script in SQL server Management studio
+3. please upadate EDMX file with newly created Tables.
+4. change connection string username/password as per your server connection.
+5. run project
